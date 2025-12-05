@@ -1,0 +1,33 @@
+:root {
+  /* Colors */
+  --bg-color: #050505;
+  --text-color: #f3f4f6;
+  --text-muted: #9ca3af;
+  
+  --primary: #7c3aed; /* Violet 600 */
+  --primary-glow: rgba(124, 58, 237, 0.5);
+  
+  --secondary: #0891b2; /* Cyan 600 */
+  --secondary-glow: rgba(8, 145, 178, 0.5);
+  
+  --accent: #db2777; /* Pink 600 */
+  
+  --glass-bg: rgba(255, 255, 255, 0.03);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --glass-highlight: rgba(255, 255, 255, 0.15);
+
+  /* Spacing */
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 4rem;
+  --spacing-xl: 8rem;
+
+  /* Typography */
+  --font-main: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-heading: 'Outfit', sans-serif;
+
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-smooth: 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
