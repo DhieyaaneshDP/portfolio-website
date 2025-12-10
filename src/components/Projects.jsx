@@ -4,15 +4,15 @@ import '../styles/Projects.css';
 const Projects = () => {
     const projects = [
         {
-            title: "E-Commerce Dashboard",
+            title: "READ-MIND",
             description: "A comprehensive dashboard for managing products, orders, and analytics. Built with React and Recharts.",
-            tags: ["React", "Redux", "Chart.js"],
-            links: { demo: "#", repo: "#" }
+            tags: ["html", "css", "js","xamp"],
+            links: { demo: "#", repo: "https://github.com/DhieyaaneshDP/read-mind" }
         },
         {
-            title: "Social Media App",
+            title: "LEARNING-AI",
             description: "Real-time social platform with chat, notifications, and media sharing. Powered by Node.js and Socket.io.",
-            tags: ["MERN Stack", "Socket.io", "AWS"],
+            tags: ["MERN Stack","gemini API"],
             links: { demo: "#", repo: "#" }
         },
         {
